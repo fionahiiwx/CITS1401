@@ -1,0 +1,5 @@
+s_no,First name,Middle name,Last name,Date of birth,Address,Phone
+1,Ali,Kem,Khan,12/5/2000,Crawley WA,+43444444
+2,John,Roger,Smith,1/12/1988,Perth City 6000,+61821021010
+3,Sarah,Kimberly,Jones,22/8/1999,Subiaco WA,+61431312312
+4,Huan,Jian,Li,5/8/2002,Claremont 6010 WA,+618323454
